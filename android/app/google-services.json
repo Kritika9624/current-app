@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613802430210",
+    "project_id": "current-app-12b3b",
+    "storage_bucket": "current-app-12b3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613802430210:android:a8f3d5cbc46695153e7c1b",
+        "android_client_info": {
+          "package_name": "com.theskillproject.current.current_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMWfklMmdlgScerhwJqoDl3nE01nCWoDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
